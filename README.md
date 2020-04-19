@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-<h3 align="center"> Desafio 04 - Módulo 05 - Node.js, Typescript e SOLID </h3>
+<h3 align="center"> Desafio 05 - Módulo 05 - Node.js, Typescript e SOLID </h3>
 
 <p>
   Esse projeto faz parte do Bootcamp GoStack da Rocketseat, e foi proposto como um desafio do Módulo 05 referente a fixação de conceitos de Node.js, SOLID e Typescript
